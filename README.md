@@ -10,4 +10,4 @@ This GUI-based application streamlines the Cox proportional hazards regression o
 
 ## Screenshot
 
-![Application Screenshot](screen.png)
+![Application Screenshot](screenshot.png)
